@@ -1,0 +1,8 @@
+data_preprocessing.py
+final_dash.py
+# VS Code : Paramètres locaux de l'éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
