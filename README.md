@@ -25,3 +25,7 @@ pip install -r requirements.txt
 ### 3. Lancer l'application :
 Exécutez le script principal ```bash : python app.py  
 Une fois le serveur lancé, accédez au dashboard via votre navigateur à l'adresse : http://127.0.0.1:7860
+
+## 🔗 Accès Direct (Cloud)
+Vous pouvez tester le dashboard directement en ligne sans aucune installation via Hugging Face Spaces :  
+👉 **[Dashboard CO2 Emissions - Mahmoud TOURKI](https://huggingface.co/spaces/tourki24/dashboard-co2-emissions)**
